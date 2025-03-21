@@ -9,7 +9,7 @@ body{
 }
 
 header{
-    background-color: rgb(54, 54, 199);
+    background-color: rgb(57, 136, 61);
     padding: 20px;
     font-size: 1.8em;
 
@@ -20,8 +20,8 @@ main{
     background-color: #222222;
     border-radius: 5px;
     box-shadow: 0 0 0 5px #222222;
-    margin: 20px auto;
-    padding: 20px;
+    margin: 15px auto;
+    padding: 200px;
 }
 
 .negrito{
@@ -40,26 +40,13 @@ main{
     padding: 10px;
     background-color: #414040;
     width: 250px;
-    box-shadow: 0 0 10px;
-    border-radius: 20px;
+    border-radius: 20px;    
     justify-content: center;
 }
 
 .card img{
     width: 100%;
-    border-radius: 10px;
 
-}
-
-.botao{
-    background-color: #ff9100;
-    border-radius: 10px;
-    cursor: pointer;
-    padding: 20px;
-    font-size: 1.5em;
-    border: none;
-    color: white;
-    font-weight: bold;
 }
 
 @media (max-whidth: 600px) {
